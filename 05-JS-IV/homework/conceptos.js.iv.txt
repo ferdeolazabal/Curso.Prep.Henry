@@ -1,0 +1,16 @@
+* Objetos
+Es como una bolsa donde metemos datos relacionados a una misma cosa
+
+* Propiedades
+Es el nombre que le damos a cada elemento de datos dentro de un objeto
+
+* Métodos
+Son funciones dentro de un objeto, cosas que puede hacer un objeto
+
+* Bucle `for…in`
+Es una forma de recorrer todas las propiedades dentro de un objeto
+
+* Notación de puntos vs notación de corchetes
+son dos maneras distintas que tenemos para acceder a las propiedades de un objeto.
+la notacion de puntos es mas facil de escribir, porque se escribe de manera literal el nombre de la propiedad
+la notacion de corchetes nos sirve para recorrer un objeto (por ej.cuando no sabemos el nombre de la propiedad), se usa mas para variables. se pueden hacer mas cosas

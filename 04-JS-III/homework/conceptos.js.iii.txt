@@ -1,0 +1,2 @@
+Array:
+Es como una bolsa donde podemos meter distintos tipos de datos, como numeros, strings, booleanos, funciones, e incluso mas arrays
