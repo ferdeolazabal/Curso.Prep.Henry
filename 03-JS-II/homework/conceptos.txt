@@ -1,0 +1,8 @@
+FOR : es una manera de decirle a la maquina que repita una instruccion sobre una variable cumpliendo las condiciones que le damos 
+
+`&&`: compara dos o mas expresiones, donde todas se tienen que cumplir para devolver un true 
+
+
+`||`: compara dos o mas expresiones, donde al menos una de las expresiones debe cumplirse para devolvernos un true
+
+`!`: compara dos expresiones y nos devuelve el valor opuesto al resultado
