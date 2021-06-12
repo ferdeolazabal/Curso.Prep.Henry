@@ -1,0 +1,8 @@
+prototype
+
+Es una propiedad que tienen los objetos, que es como que heredan metodos de otros objetos cuando este metodo no tiene una variable definida, esto nos sirve para agregar metodos o propiedades a un objeto cuando este no las tenia originalmente
+
+
+Constructors (de Clases)
+es una funcion donde se le pasan los atributos de una clase
+
